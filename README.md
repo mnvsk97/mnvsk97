@@ -1,16 +1,45 @@
-## Hi there 👋
+# Sai Krishna (mnvsk97)
 
-<!--
-**mnvsk97/mnvsk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder. DevRel @ TrueFoundry. Focused on AI infrastructure, agent systems, and reliability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m building
+
+- **AgentBreak**  
+  Chaos testing library for AI agents  
+  → Making agents fail *before* production
+
+- **Preclinical**  
+  Research-driven repo + upcoming paper on evaluating AI systems
+
+---
+
+## 🧠 What I care about
+
+- AI infrastructure (routing, gateways, observability)
+- Agent reliability & evaluation
+- Productionizing LLM systems
+
+---
+
+## 🎤 Speaking & Community
+
+- Speaker at HumanX (2026)
+- Judge at multiple AI hackathons
+- Building content around AI infra + agents
+
+---
+
+## 📈 Current focus
+
+- Launching AgentBreak
+- Publishing preprint (with Sam)
+- Growing a builder-first AI community
+
+---
+
+## 🌐 Find me
+
+- LinkedIn: https://linkedin.com/in/mnvsk97
+- Twitter/X: (add)
