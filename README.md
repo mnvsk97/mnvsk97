@@ -1,45 +1,53 @@
-# Sai Krishna (mnvsk97)
+# hey, I'm Sai 👋
 
-Builder. DevRel @ TrueFoundry. Focused on AI infrastructure, agent systems, and reliability.
+DevRel at [TrueFoundry](https://truefoundry.com) — I work at the intersection of AI infrastructure and developer experience. Mostly thinking about agents, reliability, and what happens when LLM systems meet production.
 
----
-
-## 🚀 What I’m building
-
-- **AgentBreak**  
-  Chaos testing library for AI agents  
-  → Making agents fail *before* production
-
-- **Preclinical**  
-  Research-driven repo + upcoming paper on evaluating AI systems
+Building for agents and getting ready for the agent economy.
 
 ---
 
-## 🧠 What I care about
+### what I'm building
 
-- AI infrastructure (routing, gateways, observability)
-- Agent reliability & evaluation
-- Productionizing LLM systems
+**[AgentBreak](https://github.com/mnvsk97/agentbreak)** — chaos testing for AI agents. Break them intentionally so they don't break when it matters.
 
----
-
-## 🎤 Speaking & Community
-
-- Speaker at HumanX (2026)
-- Judge at multiple AI hackathons
-- Building content around AI infra + agents
+**[Preclinical](https://github.com/Mentat-Lab/preclinical)** — research + tooling for evaluating AI systems rigorously. Paper in collaboration with UCLA, coming soon.
 
 ---
 
-## 📈 Current focus
+### things I've worked on
 
-- Launching AgentBreak
-- Publishing preprint (with Sam)
-- Growing a builder-first AI community
+**[Cognita](https://github.com/truefoundry/cognita)** — led and maintained TrueFoundry's open-source RAG framework.
+
+**[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
 
 ---
 
-## 🌐 Find me
+### what I care about
 
-- LinkedIn: https://linkedin.com/in/mnvsk97
-- Twitter/X: (add)
+- Long-running agents and voice interfaces
+- AI infra: gateways, routing, observability
+- Agent reliability & eval
+- Helping developers actually ship LLM systems
+
+---
+
+### lately
+
+- Speaking at **HumanX 2026** and many more
+- Judging and Sponsoring AI hackathons
+- Building a builder-first AI community. Join our [discord](https://discord.gg/kJVPy4Kfm6)
+- Writing and creating content around AI infra
+
+---
+
+### get in touch
+
+- Working on something together? → [mnvsk97@gmail.com](mailto:mnvsk97@gmail.com)
+- Collaborating with TrueFoundry? → [sai@truefoundry.com](mailto:sai@truefoundry.com)
+- In SF? Drop me a hi on [LinkedIn](https://linkedin.com/in/mnvsk97) and we can grab a coffee ☕
+
+---
+
+### find me
+
+[GitHub](https://github.com/mnvsk97) · [LinkedIn](https://linkedin.com/in/mnvsk97) · [Discord](https://discord.gg/kJVPy4Kfm6) · [Twitter/X](http://x.com/mnvsk97)
