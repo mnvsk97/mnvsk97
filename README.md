@@ -12,13 +12,13 @@ Building for agents and getting ready for the agent economy.
 
 **[Preclinical](https://github.com/Mentat-Lab/preclinical)** — research + tooling for evaluating AI systems rigorously. Paper in collaboration with UCLA, coming soon.
 
+**[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
 ---
 
 ### things I've worked on
 
 **[Cognita](https://github.com/truefoundry/cognita)** — led and maintained TrueFoundry's open-source RAG framework.
 
-**[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
 
 ---
 
