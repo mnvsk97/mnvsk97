@@ -10,10 +10,6 @@ Building for agents and getting ready for the agent economy.
 
 **[AgentBreak](https://github.com/mnvsk97/agentbreak)** — chaos testing for AI agents. Break them intentionally so they don't break when it matters.
 
-**[eyeroll](https://github.com/mnvsk97/eyeroll)** — AI eyes that roll through video footage. Watch videos, understand them, turn them into code actions. Claude Code skills for video-to-PR, video-to-skill, and more. `npx skills add mnvsk97/eyeroll`
-
-**[VoiceAudition](https://github.com/mnvsk97/voice-audition)** — the voice casting director for AI agents. Cross-provider TTS voice discovery and recommendation.
-
 **[Preclinical](https://github.com/Mentat-Lab/preclinical)** — research + tooling for evaluating AI systems rigorously. Paper in collaboration with UCLA, coming soon.
 
 **[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
