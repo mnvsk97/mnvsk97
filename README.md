@@ -12,6 +12,10 @@ Building for agents and getting ready for the agent economy.
 
 **[Preclinical](https://github.com/Mentat-Lab/preclinical)** — research + tooling for evaluating AI systems rigorously. Paper in collaboration with UCLA, coming soon.
 
+**[eyeroll](https://github.com/mnvsk97/eyeroll)** — AI eyes that roll through video footage. Watches screen recordings, Loom videos, and YouTube links to help coding agents fix bugs and build features.
+
+**[VoiceAudition](https://github.com/mnvsk97/voice-audition)** — the casting director for AI voice agents. 697+ voices across 9 TTS providers with semantic search and auditions.
+
 **[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
 
 ---
