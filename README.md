@@ -16,7 +16,7 @@ Building for agents and getting ready for the agent economy.
 
 **[VoiceAudition](https://github.com/mnvsk97/voice-audition)** — the casting director for AI voice agents. 697+ voices across 9 TTS providers with semantic search and auditions.
 
-**[tfy-agent-skills](https://github.com/truefoundry/tfy-agent-skills)** — agent skill primitives for building on TrueFoundry's platform.
+**[tfy-gateway-skills](https://github.com/truefoundry/tfy-gateway-skills)** & **[tfy-deploy-skills](https://github.com/truefoundry/tfy-deploy-skills)** — agent skills for deploying and routing on TrueFoundry's platform.
 
 ---
 
