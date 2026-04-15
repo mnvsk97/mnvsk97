@@ -1,8 +1,8 @@
 # hey, I'm Sai 👋
 
-DevRel at [TrueFoundry](https://truefoundry.com) — I work at the intersection of AI infrastructure and developer experience. Mostly thinking about agents, reliability, and what happens when LLM systems meet production.
+Head of DevRel at [TrueFoundry](https://truefoundry.com) — I work at the intersection of AI infrastructure and developer experience. Mostly thinking about agents, reliability, and what happens when LLM systems meet production.
 
-Building for agents and getting ready for the agent economy.
+Preparing for a world with no UI.
 
 ---
 
@@ -10,49 +10,43 @@ Building for agents and getting ready for the agent economy.
 
 **[AgentBreak](https://github.com/mnvsk97/agentbreak)** — chaos testing for AI agents. Break them intentionally so they don't break when it matters.
 
-**[Preclinical](https://github.com/Mentat-Lab/preclinical)** — research + tooling for evaluating AI systems rigorously. Paper in collaboration with UCLA, coming soon.
-
 **[eyeroll](https://github.com/mnvsk97/eyeroll)** — AI eyes that roll through video footage. Watches screen recordings, Loom videos, and YouTube links to help coding agents fix bugs and build features.
 
 **[VoiceAudition](https://github.com/mnvsk97/voice-audition)** — the casting director for AI voice agents. 697+ voices across 9 TTS providers with semantic search and auditions.
 
 **[tfy-gateway-skills](https://github.com/truefoundry/tfy-gateway-skills)** & **[tfy-deploy-skills](https://github.com/truefoundry/tfy-deploy-skills)** — agent skills for deploying and routing on TrueFoundry's platform.
 
----
-
-### things I've worked on
-
 **[Cognita](https://github.com/truefoundry/cognita)** — led and maintained TrueFoundry's open-source RAG framework.
 
+---
+
+### research
+
+**[Preclinical](https://github.com/Mentat-Lab/preclinical)** — open-source platform for adversarial safety testing of healthcare AI agents. Built around **TriageBench**, a benchmark that evaluates whether AI agents can correctly triage patients into emergency, clinician, or home care — and catches the dangerous errors where agents under-triage emergencies. Paper in collaboration with UCLA, coming soon.
 
 ---
 
 ### what I care about
 
-- Long-running agents and voice interfaces
-- AI infra: gateways, routing, observability
-- Agent reliability & eval
-- Helping developers actually ship LLM systems
+- Voice agents that respond in under 500ms — latency is the product
+- Agents that survive the real world, not just the demo
+- The infrastructure layer that makes all of this actually work in production
+- Clarity over anything else
 
 ---
 
 ### lately
 
-- Speaking at **HumanX 2026** and many more
-- Judging and Sponsoring AI hackathons
-- Building a builder-first AI community. Join our [discord](https://discord.gg/kJVPy4Kfm6)
-- Writing and creating content around AI infra
+- Speaking at events and conferences
+- Judging and sponsoring AI hackathons
+- Building a builder-first AI community — [join the discord](https://discord.gg/kJVPy4Kfm6)
 
 ---
 
 ### get in touch
 
-- Working on something together? → [mnvsk97@gmail.com](mailto:mnvsk97@gmail.com)
+- Building something together? → [mnvsk97@gmail.com](mailto:mnvsk97@gmail.com)
 - Collaborating with TrueFoundry? → [sai@truefoundry.com](mailto:sai@truefoundry.com)
-- In SF? Drop me a hi on [LinkedIn](https://linkedin.com/in/mnvsk97) and we can grab a coffee ☕
-
----
-
-### find me
+- In SF? Let's grab coffee ☕
 
 [GitHub](https://github.com/mnvsk97) · [LinkedIn](https://linkedin.com/in/mnvsk97) · [Discord](https://discord.gg/kJVPy4Kfm6) · [Twitter/X](http://x.com/mnvsk97)
