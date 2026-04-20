@@ -12,6 +12,8 @@ Preparing for a world with no UI.
 
 **[eyeroll](https://github.com/mnvsk97/eyeroll)** — AI eyes that roll through video footage. Watches screen recordings, Loom videos, and YouTube links to help coding agents fix bugs and build features.
 
+**[harnessctl](https://github.com/mnvsk97/harnessctl)** — one CLI for all your coding agents. Same commands, same logs, same handoff across Claude Code, Codex, Gemini, Cursor, and OpenCode.
+
 **[VoiceAudition](https://github.com/mnvsk97/voice-audition)** — the casting director for AI voice agents. 697+ voices across 9 TTS providers with semantic search and auditions.
 
 **[tfy-gateway-skills](https://github.com/truefoundry/tfy-gateway-skills)** & **[tfy-deploy-skills](https://github.com/truefoundry/tfy-deploy-skills)** — agent skills for deploying and routing on TrueFoundry's platform.
